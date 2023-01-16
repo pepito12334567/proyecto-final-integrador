@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 2em;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#foto-perfil {
+    border: solid 1px black; /* agrega un borde */
+    border-radius: 50%; /* redondea los bordes */
+    margin: 10px; /* agrega un margen */
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  
